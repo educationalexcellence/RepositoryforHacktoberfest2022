@@ -1,3 +1,5 @@
+#hacktoberfest
+
 #include <iostream>
 #include<cmath> //to use sqrt function
 using namespace std;
